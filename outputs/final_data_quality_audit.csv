@@ -1,0 +1,9 @@
+Metric,Count
+Original transaction rows,541909
+Rows after removing exact duplicates,536641
+Rows with missing CustomerID,135037
+Rows with negative quantity,10587
+Rows with zero or negative UnitPrice,2512
+Rows with cancellation-prefixed InvoiceNo,9251
+Customer-level transaction rows,401604
+Rows retained in sales dataset,392692

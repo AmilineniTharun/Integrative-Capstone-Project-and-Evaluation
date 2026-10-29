@@ -1,0 +1,11 @@
+Check,Result
+Total rows,541909
+Total columns,8
+Exact duplicate rows,5268
+Missing CustomerID,135080
+Missing Description,1454
+Zero quantity,0
+Negative quantity,10624
+Zero unit price,2515
+Negative unit price,2
+Invoice numbers beginning with C,9288
